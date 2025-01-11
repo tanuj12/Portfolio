@@ -1,0 +1,20 @@
+[
+  {
+    "title": "PrepNotes",
+    "imageSrc": "projects/project.png",
+    "description": "A web application to help students extract notes and answer questions. Solution was selected as a Top 4 solution in India for the Smart India Hackathon.",
+    "skills": ["Angular", "Node", "Python", "NLP", "Firebase"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/tanuj12/prepNotes",
+    "showSource": true
+  },
+  {
+    "title": "English Wisper",
+    "imageSrc": "projects/project.png",
+    "description": "Created a game \"English Whisper\" (similar to \"Chinese Whisper\") using Angular and Node.js, connecting multiple users in real time via sockets. Won first place at FOSSCON 2019 hackathon.",
+    "skills": ["Angular", "Node", "Socket"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com",
+    "showSource": false
+  }
+]

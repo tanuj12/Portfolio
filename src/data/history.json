@@ -1,0 +1,36 @@
+[
+  {
+    "role": "Senior Fullstack Engineer",
+    "organisation": "Falabella",
+    "startDate": "Jan, 2021",
+    "endDate": "June 2024",
+    "experiences": [
+      "Engineered scalable POS systems.",
+      "Deployed in 100+ stores across 3 countries.",
+      "Designed and implemented a web-based visitor management system"
+    ],
+    "imageSrc": "history/falabella.png"
+  },
+  {
+    "role": "Embedded system and Web Development Intern",
+    "organisation": "Shalaka Connected Devices",
+    "startDate": "Jun, 2019",
+    "endDate": "July, 2019",
+    "experiences": [
+      "Designed libraries to integrate sensors into IoT, reducing setup time for future projects by 80%.",
+      "Developed a real-time web app for data visualization and analysis, processing data from over 500 sensors with 99% accuracy."
+    ],
+    "imageSrc": "history/shalaka.png"
+  },
+  {
+    "role": "System Programming and Network Security Intern",
+    "organisation": "Shreshta IT",
+    "startDate": "Jun, 2017",
+    "endDate": "July, 2017",
+    "experiences": [
+      "Built a malware detection system with Yara rules and Bash scripts, reducing setup time by 70%.",
+      "Developed a Python Flask app for network monitoring, cutting issue resolution time by 80%."
+    ],
+    "imageSrc": "history/shreshta.png"
+  }
+]
